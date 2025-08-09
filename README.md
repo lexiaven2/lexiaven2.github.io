@@ -5,8 +5,8 @@
   <h2>Who is Tekton Constuction?</h2>
   <body bgcolor = "#d2b48c">
   Tekton is a construction company that focuses on the important things: construction. No funny business, no unreasonable prices, just construction.
-     history
-    Our company started 1937, during the recoverty  from thre great depression
+  <h2>About Us: Our History</h2>
+    Our company started in 1987, as a small general constracting firm with a clea mission: 
 About Us: Our History
 Building a Legacy Since 1992
 
