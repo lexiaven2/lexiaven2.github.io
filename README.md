@@ -6,34 +6,43 @@
   <body bgcolor = "#d2b48c">
   Tekton is a construction company that focuses on the important things: construction. No funny business, no unreasonable prices, just construction.
   <h2>About Us: Our History</h2>
-    Our company started in 1987, as a small general constracting firm with a clea mission: 
-About Us: Our History
-Building a Legacy Since 1992
+    Here’s the revised version with **Tekton Construction** as the company name:
 
-Founded in 1992, SummitEdge Construction began as a small general contracting firm with a bold vision: to raise the standard for quality and integrity in the construction industry. From our humble beginnings working on residential remodels, we quickly earned a reputation for delivering projects on time, on budget, and above expectations.
+---
 
-Over the decades, SummitEdge has grown into a full-service construction company serving commercial, industrial, and residential clients across the region. Our portfolio includes everything from custom homes and retail centers to public infrastructure and high-rise developments.
+## **Our Story**
 
-Through changing markets and evolving client needs, one thing has remained constant—our commitment to excellence. Our success is built on long-standing client relationships, a skilled workforce, and a passion for building projects that stand the test of time.
+**From Small Beginnings to Big Builds**
 
-Our Management Team
-Experienced. Visionary. Hands-On.
+Back in 1992, **Tekton Construction** started as a small crew with a big dream: to deliver quality projects and treat every client like a partner. Our first jobs were simple home renovations and small business build-outs, but word spread quickly about our attention to detail and reliability.
 
-At SummitEdge Construction, our leadership team combines decades of experience in construction, engineering, and project management. Each member brings deep industry expertise, a collaborative spirit, and a shared dedication to client satisfaction and operational excellence.
+Over the years, we’ve grown into a trusted name in commercial, residential, and industrial construction. We’ve built offices, schools, retail spaces, and custom homes—always keeping the same promise we made from the start: get the job done right, on time, and with no shortcuts.
 
-John R. Mason
-Chief Executive Officer
-With over 30 years in the construction industry, John founded SummitEdge with a mission to blend craftsmanship with modern efficiency. He leads the company with a strategic focus on sustainable growth, safety, and innovation.
+Our growth hasn’t changed our values. We still believe that good business is built on trust, clear communication, and craftsmanship that lasts.
 
-Elena Garcia
-Chief Operating Officer
-Elena oversees day-to-day operations and ensures that each project runs smoothly from planning to completion. Her background in civil engineering and project logistics makes her an integral part of SummitEdge’s delivery process.
+---
 
-Mark Thompson
-Director of Project Management
-Mark brings over 20 years of experience managing complex construction projects. He leads a team of seasoned project managers and is known for his detail-oriented approach and strong client communication.
+## **Leadership Team**
 
-Alicia Chen
-Chief Financial Officer
+**The People Behind the Projects**
+
+Our management team blends decades of experience with a hands-on approach. We don’t just sit behind desks—we’re out in the field, working alongside our crews and making sure every detail is right.
+
+**John Mason – CEO**
+John founded Tekton Construction and has spent over 30 years in construction. He’s guided the company from a small operation to a regional builder, all while keeping the same customer-first philosophy that started it all.
+
+**Elena Garcia – COO**
+Elena keeps our projects running smoothly from start to finish. With a background in civil engineering, she knows how to solve problems before they happen and make sure our crews have what they need to succeed.
+
+**Mark Thompson – Director of Project Management**
+Mark has led some of our most challenging projects. He’s known for keeping jobs on schedule and budget, and for making sure clients always know exactly where things stand.
+
+**Alicia Chen – CFO**
+Alicia manages the company’s finances and helps plan for smart, sustainable growth. She makes sure every dollar is put to work building value for our clients and our team.
+
+---
+
+If you want, I can also add a **short tagline and mission statement** for Tekton Construction so it works perfectly on your homepage and “About Us” page together. That way, it’ll feel even more complete.
+
 Alicia is responsible for the financial health of the company, including budgeting, forecasting, and investor relations. Her strategic insights have helped drive efficient scaling and cost-effective practices.
 </html>
