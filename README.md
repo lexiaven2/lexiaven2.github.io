@@ -5,16 +5,12 @@
   <h2>Who is Tekton Constuction?</h2>
   <body bgcolor = "#d2b48c">
   Tekton is a construction company that focuses on the important things: construction. No funny business, no unreasonable prices, just construction.
-  <h2>About Us: Our History</h2>
-    Here’s the revised version with **Tekton Construction** as the company name:
+  <h2>Our Story</h2>
 
----
 
-## **Our Story**
+From Small Beginnings to Big Builds
 
-**From Small Beginnings to Big Builds**
-
-Back in 1992, **Tekton Construction** started as a small crew with a big dream: to deliver quality projects and treat every client like a partner. Our first jobs were simple home renovations and small business build-outs, but word spread quickly about our attention to detail and reliability.
+Back in 1992, Tekton Construction started as a small crew with a big dream: to deliver quality projects and treat every client like a partner. Our first jobs were simple home renovations and small business build-outs, but word spread quickly about our attention to detail and reliability.
 
 Over the years, we’ve grown into a trusted name in commercial, residential, and industrial construction. We’ve built offices, schools, retail spaces, and custom homes—always keeping the same promise we made from the start: get the job done right, on time, and with no shortcuts.
 
