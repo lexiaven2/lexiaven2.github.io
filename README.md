@@ -16,28 +16,23 @@ Over the years, we’ve grown into a trusted name in commercial, residential, an
 
 Our growth hasn’t changed our values. We still believe that good business is built on trust, clear communication, and craftsmanship that lasts.
 
-## **Leadership Team**
+<h2>Leadership Team</h2>
 
-**The People Behind the Projects**
+<b>The People Behind the Projects</b>
 
 Our management team blends decades of experience with a hands-on approach. We don’t just sit behind desks—we’re out in the field, working alongside our crews and making sure every detail is right.
 
-<b>CEO</b>
+<b>John Mason - CEO</b>
 <br>
-Blank founded Tekton Construction and has spent over 30 years in construction. He’s guided the company from a small operation to a regional builder, all while keeping the same customer-first philosophy that started it all.
+John founded Tekton Construction and has spent over 30 years in construction. He’s guided the company from a small operation to a regional builder, all while keeping the same customer-first philosophy that started it all.
 
-**Elena Garcia – COO**
+<b>Elena Garcia – COO</b>
 Elena keeps our projects running smoothly from start to finish. With a background in civil engineering, she knows how to solve problems before they happen and make sure our crews have what they need to succeed.
 
-**Mark Thompson – Director of Project Management**
+<b>Mark Thompson – Director of Project Management</b>
 Mark has led some of our most challenging projects. He’s known for keeping jobs on schedule and budget, and for making sure clients always know exactly where things stand.
 
-**Alicia Chen – CFO**
+<b>Alicia Chen – CFO</b>
 Alicia manages the company’s finances and helps plan for smart, sustainable growth. She makes sure every dollar is put to work building value for our clients and our team.
 
----
-
-If you want, I can also add a **short tagline and mission statement** for Tekton Construction so it works perfectly on your homepage and “About Us” page together. That way, it’ll feel even more complete.
-
-Alicia is responsible for the financial health of the company, including budgeting, forecasting, and investor relations. Her strategic insights have helped drive efficient scaling and cost-effective practices.
 </html>
