@@ -27,11 +27,13 @@ Our growth hasn't changed our values. We still believe that good business is bui
 
 Our management team blends decades of experience with a hands-on approach. We don't just sit behind desks - we're out in the field, working alongside our crews and making sure every detail is right.
 
-<b>John Mason - CEO</b>
+<b>John Mason - CEO</b> 
+<img 
 <br>
 John founded Tekton Construction and has spent over 30 years in construction. He’s guided the company from a small operation to a regional builder, all while keeping the same customer-first philosophy that started it all.
 <br>
 <b>Elena Garcia - COO</b>
+<img src = "https://www.pexels.com/photo/a-woman-smiling-at-the-camera-8528743">
 <br>
 Elena keeps our projects running smoothly from start to finish. With a background in civil engineering, she knows how to solve problems before they happen and make sure our crews have what they need to succeed.
 <br>
@@ -44,6 +46,8 @@ Mark has led some of our most challenging projects. He's known for keeping jobs 
 Alicia manages the company's finances and helps plan for smart, sustainable growth. She makes sure every dollar is put to work building value for our clients and our team.
 
 
-Contact Us
+<h2>Contact Us</h2>
+<a href = "mailto:aaven@purdue.edu">
+
 
 </html>
