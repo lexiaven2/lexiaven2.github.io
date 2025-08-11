@@ -3,8 +3,11 @@
     <h1>Tekton Construction, LLC</h1>
   </head>
   <h2>Who is Tekton Constuction?</h2>
+  <body>
+    <bgcolor = "#D2B48C">
+    
   <body bgcolor = "#D2B48C"></body>
-  Tekton is a construction company that focuses on the important things: construction. No funny business, no unreasonable prices, just construction.
+  <font size = "4">Tekton is a construction company that focuses on the important things: construction. No funny business, no unreasonable prices, just construction.</font>
   <h2>Our Story</h2>
 
 
@@ -15,6 +18,7 @@ Back in 1992, Tekton Construction started as a small crew with a big dream: to d
 Over the years, we’ve grown into a trusted name in commercial, residential, and industrial construction. We’ve built offices, schools, retail spaces, and custom homes—always keeping the same promise we made from the start: get the job done right, on time, and with no shortcuts.
 
 Our growth hasn’t changed our values. We still believe that good business is built on trust, clear communication, and craftsmanship that lasts.
+
 
 <h2>Leadership Team</h2>
 
@@ -32,7 +36,11 @@ Elena keeps our projects running smoothly from start to finish. With a backgroun
 <b>Mark Thompson – Director of Project Management</b>
 Mark has led some of our most challenging projects. He’s known for keeping jobs on schedule and budget, and for making sure clients always know exactly where things stand.
 
+
 <b>Alicia Chen – CFO</b>
 Alicia manages the company’s finances and helps plan for smart, sustainable growth. She makes sure every dollar is put to work building value for our clients and our team.
+
+
+Contact Us
 
 </html>
