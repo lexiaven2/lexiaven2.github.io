@@ -12,7 +12,7 @@
   <h2>Our Story</h2>
     <br>
 
-  <b><i><font = "Times New Roman"><font color = "red">From Small Beginnings to Big Builds</font></i></b>
+  <b><i><font color = "red" font size = "h2">From Small Beginnings to Big Builds</font></i></b>
     
 Back in 1992, Tekton Construction started as a small crew with a big dream: to deliver quality projects and treat every client like a partner. Our first jobs were simple home renovations and small business build-outs, but word spread quickly about our attention to detail and reliability.
 
