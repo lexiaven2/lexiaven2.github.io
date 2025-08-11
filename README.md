@@ -3,7 +3,7 @@
     <h1>Tekton Construction, LLC</h1>
   </head>
   <h2>Who is Tekton Constuction?</h2>
-  <body bgcolor="#d2b48c"></body>
+  <body bgcolor = "#d2b48c"></body>
   Tekton is a construction company that focuses on the important things: construction. No funny business, no unreasonable prices, just construction.
   <h2>Our Story</h2>
 
